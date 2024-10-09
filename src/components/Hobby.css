@@ -1,0 +1,17 @@
+.hobby {
+    color: white !important;
+    background-color: #282a3a !important;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    min-width: 50%;
+    max-width: 100vh;
+    overflow-wrap: break-word;
+}
+
+.hobby img {
+    height: 10rem;
+    width: auto;
+}
